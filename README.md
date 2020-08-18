@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-To see the app in action, go to 
+To see the app in action, go to https://vacaycity.herokuapp.com/
 
 ## Features
 
