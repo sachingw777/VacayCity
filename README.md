@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-To see the app in action, go to https://vacaycity.herokuapp.com/
+To see the app in action, go to [https://vacaycity.herokuapp.com/](VacayCity)
 
 ## Features
 
@@ -89,7 +89,7 @@ yarn install
 ### Platforms
 
 * [Heroku](https://www.heroku.com/)
-* [CleverCloud] (https://www.clever-cloud.com/)
+* [CleverCloud](https://www.clever-cloud.com/)
 
 ## License
 
