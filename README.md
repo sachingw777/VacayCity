@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-To see the app in action, go to [VacayCity](https://yelpcamp--demo.herokuapp.com/](https://yelpcamp--demo.herokuapp.com/)
+To see the app in action, go to [VacayCityLive](https://vacaycity.herokuapp.com/)
 
 ## Features
 
